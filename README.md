@@ -132,5 +132,9 @@ testing_data_f1 = f1_score(Y_test, X_test_prediction)
 
 ---
 
+### Contact
+
+If you have any questions or need further assistance, please feel free to contact the project maintainer at vanburen.kyle@yahoo.com.
+
 Feel free to modify and expand upon this README to provide additional details about your project!
 
